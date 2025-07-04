@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.266950af.css",
-    "main.js": "/robofriends/static/js/main.acda5d83.js",
-    "static/js/453.e6be0e86.chunk.js": "/robofriends/static/js/453.e6be0e86.chunk.js",
-    "static/media/Moonhouse-yE5M.ttf": "/robofriends/static/media/Moonhouse-yE5M.27ab573368b14c8ed14f.ttf",
-    "index.html": "/robofriends/index.html",
-    "main.266950af.css.map": "/robofriends/static/css/main.266950af.css.map",
-    "main.acda5d83.js.map": "/robofriends/static/js/main.acda5d83.js.map",
-    "453.e6be0e86.chunk.js.map": "/robofriends/static/js/453.e6be0e86.chunk.js.map"
+    "main.css": "/Robofriends/static/css/main.9af0de7d.css",
+    "main.js": "/Robofriends/static/js/main.49e83c93.js",
+    "static/js/453.e6be0e86.chunk.js": "/Robofriends/static/js/453.e6be0e86.chunk.js",
+    "static/media/Moonhouse-yE5M.ttf": "/Robofriends/static/media/Moonhouse-yE5M.27ab573368b14c8ed14f.ttf",
+    "index.html": "/Robofriends/index.html",
+    "main.9af0de7d.css.map": "/Robofriends/static/css/main.9af0de7d.css.map",
+    "main.49e83c93.js.map": "/Robofriends/static/js/main.49e83c93.js.map",
+    "453.e6be0e86.chunk.js.map": "/Robofriends/static/js/453.e6be0e86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.266950af.css",
-    "static/js/main.acda5d83.js"
+    "static/css/main.9af0de7d.css",
+    "static/js/main.49e83c93.js"
   ]
 }
