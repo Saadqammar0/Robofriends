@@ -1,8 +1,9 @@
 {
   "name": "robofriends",
-  "homepage": "https://saadqammar0.github.io/Robofriends",
+  
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://saadqammar0.github.io/Robofriends",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
